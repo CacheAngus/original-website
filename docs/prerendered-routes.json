@@ -1,0 +1,9 @@
+{
+  "routes": {
+    "/original-website": {},
+    "/original-website/about": {},
+    "/original-website/experience": {},
+    "/original-website/projects": {},
+    "/original-website/welcome": {}
+  }
+}
